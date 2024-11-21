@@ -8,6 +8,7 @@
    após isso, utilizaremos abriremos a interface web com: 
    
    w
+   
    O servidor estará rodando em:
    
    http://localhost:8081
