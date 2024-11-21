@@ -21,8 +21,8 @@
    podendo também deletar um post com um x no canto do comentário feito na rota com o método Delete:
    http://localhost:3000/post/:id
 
-### Após login ou cadastro:
-   Será mostrado a tela com posts feitos do usuário:
+### Página de posts:
+   Após o login ou cadastro de um usuário, será mostrado a tela com posts feitos do usuário:
    http://localhost:3000/posts
    e um botão para abrir uma nova e adicionar novos posts, com o método Post:
    http://localhost:3000/post
