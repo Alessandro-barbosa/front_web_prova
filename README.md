@@ -25,6 +25,7 @@
    Pegando os campos e enviando uma requisição com método Post para:
    
    http://localhost:3000/user
+   
    retornara um Alert indicando que o usuário foi cadastrado com sucesso ou não.
    podendo também deletar um post com um x no canto do comentário feito na rota com o método Delete:
    
@@ -34,6 +35,7 @@
    Após o login ou cadastro de um usuário, será mostrado a tela com posts feitos do usuário:
    
    http://localhost:3000/posts
+   
    e um botão para abrir uma nova e adicionar novos posts, com o método Post:
    
    http://localhost:3000/post
